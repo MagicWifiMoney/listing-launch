@@ -1,1 +1,7 @@
-node_modules/\n.next/\n.env.local
+node_modules/
+.env
+.env.local
+dev.db
+dev.db-journal
+.next/
+*.log
